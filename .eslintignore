@@ -1,4 +1,5 @@
 node_modules
 .vscode
-dev.md
+_dev.md
+_wiser.md
 coverage

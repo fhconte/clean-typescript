@@ -1,14 +1,12 @@
 # clean-typescript
 ReactJS, Hooks, TDD, Clean Architecture, SOLID & Patterns
-
-Curso que estou fazendo na Udemy, do professor Manguinho.
-
+Course I'm taking at Udemy, by teacher Manguinho.
 ## [**https://www.udemy.com/course/react-com-mango/](https://www.udemy.com/course/react-com-mango/)
 ## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
 
 The objective of the training is to show how to create a system in ReactJs using the Hooks, with a well-defined and decoupled architecture, using TDD (test driven development) as the work methodology, Clean Architecture to make the distribution of responsibilities in layers, following the principles of SOLID, DRY, YAGNI, KISS and applying Design Patterns to solve problems.
 
-> ## Princípios
+> ## Principles
 
 * Single Responsibility Principle (SRP)
 * Open Closed Principle (OCP)
@@ -34,7 +32,7 @@ The objective of the training is to show how to create a system in ReactJs using
 * Builder
 * Proxy
 
-> ## Metodologias e Designs
+> ## Patterns & Methodologies
 
 * TDD
 * Clean Architecture
@@ -50,7 +48,7 @@ The objective of the training is to show how to create a system in ReactJs using
 * Continuous Delivery
 * Continuous Deployment
 
-> ## Bibliotecas e Ferramentas
+> ## Libs & Tools
 
 * Typescript
 * React
@@ -72,7 +70,7 @@ The objective of the training is to show how to create a system in ReactJs using
 * Standard Javascript Style
 * React Flip Move
 
-> ## Features do React
+> ## React Features
 
 * Functional Components
 * UseState
@@ -85,7 +83,7 @@ The objective of the training is to show how to create a system in ReactJs using
 * Router
 * Memo
 
-> ## Features do Git
+> ## Git Features
 
 * Alias
 * Log Personalizado

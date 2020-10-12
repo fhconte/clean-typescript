@@ -1,5 +1,5 @@
 # clean-typescript
-ReactJS, Hooks, TDD, Clean Architecture, SOLID & Patterns
+ReactJS, Hooks, TDD, Clean Architecture, SOLID & Design Patterns
 Course I'm taking at Udemy, by teacher Manguinho.
 ## [Link to the course](https://www.udemy.com/course/react-com-mango/)
 ## [Link to the API](http://fordevs.herokuapp.com/api-docs)

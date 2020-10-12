@@ -1,4 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/camelcase
 import React from 'react'
 import ReactDOM from 'react-dom'
 import Login from '@/presentation/pages/login/login'

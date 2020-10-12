@@ -1,8 +1,8 @@
 # clean-typescript
 ReactJS, Hooks, TDD, Clean Architecture, SOLID & Patterns
 Course I'm taking at Udemy, by teacher Manguinho.
-## [**https://www.udemy.com/course/react-com-mango/](https://www.udemy.com/course/react-com-mango/)
-## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
+## [**Link to the course](https://www.udemy.com/course/react-com-mango/)
+## [**Link to the API**](http://fordevs.herokuapp.com/api-docs)
 
 The objective of the training is to show how to create a system in ReactJs using the Hooks, with a well-defined and decoupled architecture, using TDD (test driven development) as the work methodology, Clean Architecture to make the distribution of responsibilities in layers, following the principles of SOLID, DRY, YAGNI, KISS and applying Design Patterns to solve problems.
 

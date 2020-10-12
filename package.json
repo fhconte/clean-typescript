@@ -1,7 +1,7 @@
 {
-  "name": "clean-react",
+  "name": "clean-typescript",
   "version": "1.0.0",
-  "description": "ReactJS, Hooks, TDD, Clean Architecture, SOLID & Design Patterns",
+  "description": "ReactJS with Typescript, Hooks, TDD, Clean Architecture, SOLID & Design Patterns",
   "author": "fhconte",
   "scripts": {
     "start": "webpack-dev-server",

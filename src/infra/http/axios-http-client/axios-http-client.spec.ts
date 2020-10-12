@@ -31,6 +31,6 @@ describe('AxiosHttpClient', () => {
   test('Should return with correct response (statusCode and body)', async () => {
     const { sut, mockedAxios } = makeSut()
     const promise = sut.post(mockPostRequest())
-    expect(promise).toEqual(mockedAxios.post.mock.results[0].value)
+    await expect(promise).toEqual(mockedAxios.post.mock.results[0].value)
   })
 })

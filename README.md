@@ -130,5 +130,3 @@ The objective of the training is to show how to create a system in ReactJs using
 - Spies
 - Fakes
 - Dummies
-
-<!-- test push -->

@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "ReactJS with Typescript, Hooks, TDD, Clean Architecture, SOLID & Design Patterns",
   "author": "fhconte",
-  "license": "",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "jest --passWithNoTests --no-cache --runInBand",

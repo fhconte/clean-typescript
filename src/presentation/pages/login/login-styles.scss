@@ -48,7 +48,8 @@ button {
     flex-direction: column;
     border-top: 40px solid $primaryDark;
     background-color: $primary;
-    align-items: center;
+    align-items: left;
+    padding: 0 20px;
 
     h1 {
       color: $white;

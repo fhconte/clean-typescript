@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { memo } from 'react'
 
 const Logo: React.FC = () => {
   return (
@@ -6,4 +6,4 @@ const Logo: React.FC = () => {
   )
 }
 
-export default Logo
+export default memo(Logo)

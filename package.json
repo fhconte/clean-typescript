@@ -4,7 +4,7 @@
   "description": "ReactJS with Typescript, Hooks, TDD, Clean Architecture, SOLID & Design Patterns",
   "author": "fhconte",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --open",
     "test": "jest --passWithNoTests --no-cache --runInBand",
     "test:watch": "npm test -- --watch",
     "test:staged": "npm test -- --findRelatedTests",
